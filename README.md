@@ -1,1 +1,1 @@
-# puftu.githubpages.io
+# puftu.github.io
